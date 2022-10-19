@@ -6,10 +6,10 @@ function checkPalindrome(N, str) {
          
      }
      if(nstr==str){
-         console.log("No");
+         console.log("Yes");
      }
     else{
-        console.log("Yes");
+        console.log("No");
     }
     
   
